@@ -1,4 +1,8 @@
 .env
+.env.*
+!.env.example
+.ripple-reports.json*
+.test-build/
 node_modules/
 dist/
 *.log
