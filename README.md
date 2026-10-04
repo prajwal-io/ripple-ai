@@ -37,4 +37,3 @@ npm run start
 ```
 
 Set `APP_ORIGIN`, `MIRO_REDIRECT_URI`, Qwen settings, and Miro app credentials in the hosting environment. Use HTTPS and a durable session/token store before deploying for multiple users.
-

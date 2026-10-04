@@ -1,0 +1,22 @@
+{
+  "name": "ripple-ai",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "vite build",
+    "start": "node server.js --prod"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "^0.468.0",
+    "express": "^5.1.0",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {}
+}
